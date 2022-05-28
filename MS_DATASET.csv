@@ -1,0 +1,46 @@
+APP_ID,APP_NAME,SCORE,LINK,KEYWORDS
+1,Access (PC only),1.1,https://support.microsoft.com/en-us/office/download-and-install-microsoft-365-access-runtime-185c5a32-8ba9-491e-ac76-91cbe3ea09c9,management|report|dbms|data
+2,Advanced Threat Analytics ,1.1,https://www.microsoft.com/en-us/download/details.aspx?id=56725,defence|protection|threat|security|analytics
+3,Bookings,1.1,https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app,schedule-meetings|bookings|company|appointments|data
+4,Cloud App Security,1.1,https://techcommunity.microsoft.com/t5/itops-talk-blog/step-by-step-blocking-data-downloads-via-microsoft-cloud-app/ba-p/326357,defence|protection|threat|security|cloud
+5,Defender (MSFT 365),1.1,https://www.microsoft.com/en-us/security/business/threat-protection/microsoft-365-defender,defence|protection|threat|security|suite
+6,Defender for business,1.1,https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-business,defence|protection|threat|security|business
+7,Defender for endpoint,1.1,https://www.microsoft.com/en-in/security/business/threat-protection/endpoint-defender,defence|protection|threat|security|endpoint
+8,Defender for identity,1.1,https://docs.microsoft.com/en-us/defender-for-identity/install-step3,defence|protection|threat|security|identity
+9,Defender for office 365,1.1,https://docs.microsoft.com/en-us/microsoft-365/security/defender/microsoft-365-defender?view=o365-worldwide,defence|protection|threat|security|cloud
+10,Edge,1.1,https://www.microsoft.com/en-us/edge,browsing|family safety|kids mode|control
+11,Editor,1.1,https://www.microsoft.com/en-in/microsoft-365/microsoft-editor,documentation|letters|report|creative-writing
+12,Endpoint Manager,1.1,https://www.microsoft.com/en-in/evalcenter/download-microsoft-endpoint-configuration-manager,endpoint|management|virtual-machine|security
+13,Excel,1.1,https://www.microsoft.com/en-in/microsoft-365/excel,data-analysis|data-grading|report|data
+14,Exchange,1.1,https://www.microsoft.com/en-in/download/details.aspx?id=13800,collaboration|scheduling-emails|mail|calendar
+15,Enterprise mobility and security,1.1,https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing,defence|protection|threat|security|enterprise
+16,Family safety,1.1,https://www.microsoft.com/en-us/microsoft-365/family-safety,family safety|kids mode|control
+17,Forms,1.1,https://forms.microsoft.com/,data-analysis|data-grading|report|data
+18,Intune,1.1,https://www.microsoft.com/en-us/download/details.aspx?id=44997,cloud|control|protection|management
+19,Kaizala,1.1,https://www.microsoft.com/en-in/microsoft-365/business/microsoft-kaizala,management|set-task|report
+20,Lists,1.1,https://www.microsoft.com/en-in/microsoft-365/microsoft-lists,management|daily-planner|report
+21,Mobile Apps,1.1,https://www.microsoft.com/en-in/store/apps/windows-phone,cloud|virtual-machine|productivity|mobile
+22,OneDrive,1.1,https://www.microsoft.com/en-in/microsoft-365/onedrive/download,connection|files|save-photos|dynamic-storage
+23,OneNote,1.1,https://www.onenote.com/download,documentation|letters|report|web-clipper
+24,Outlook,1.1,https://www.microsoft.com/en-in/download/details.aspx?id=13800,mail|schedule-meetings|appointments|management
+25,Planner,1.1,https://www.microsoft.com/en-in/microsoft-365/business/task-management-software,daily-planner|reminders|set-task|progress
+26,Power Apps,1.1,https://powerapps.microsoft.com/en-in/downloads/,suite|services|data|custom-apps|business
+27,Power Automate,1.1,https://blogs.windows.com/windowsexperience/2021/03/02/download-power-automate-desktop-for-windows-10-to-automate-tasks-and-processes-at-no-additional-cost/,automating-processes|suite|services|data|business
+28,Power BI,1.1,https://www.microsoft.com/en-us/download/details.aspx?id=58494,mail|appointments|calendar|management
+29,Powerpoint,1.1,https://www.microsoft.com/en-in/microsoft-365/powerpoint,presentation|business|vba|report
+30,Project,1.1,https://support.microsoft.com/en-us/office/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281,daily-planner|reminders|set-task|management
+31,Publisher(PC only),1.1,https://www.microsoft.com/en-in/microsoft-365/publisher,branding|business|content|publish
+32,SharePoint,1.1,https://www.microsoft.com/en-ww/microsoft-365/sharepoint/collaboration,content-classification|content|management|automate-content-processing
+33,SharePoint Syntex,1.1,https://www.microsoft.com/en-ww/microsoft-365/enterprise/sharepoint-syntex,content-classification|content|management|machine-learning-models
+34,Skype,1.1,https://www.skype.com/en/get-skype/,video-calling|online-meetings|conversation|small-group|video
+35,Stream,1.1,https://www.microsoft.com/en-in/microsoft-365/microsoft-stream,management|video|cloud
+36,Sway,1.1,https://apps.microsoft.com/store/detail/sway/9WZDNCRD2G0J?hl=en-us&gl=US,presentation|animations|business|vba|blogs
+37,Teams,1.1,https://www.microsoft.com/en-in/microsoft-teams/download-app,video-calling|online-meetings|conversation|video
+38,To Do,1.1,https://todo.microsoft.com/tasks/,daily-planner|reminders|set-task|personal-task
+39,Visio,1.1,https://support.microsoft.com/en-us/office/install-visio-or-access-visio-for-the-web-f98f21e3-aa02-4827-9167-ddab5b025710,diagrams|charting|graphics|business
+40,Viva,1.1,https://vivavideo-free-video-editor.en.uptodown.com/android/download,employee|communications|analytics|organisation
+41,WhiteBoard,1.1,https://www.microsoft.com/en-in/microsoft-365/microsoft-whiteboard/digital-whiteboard-app,diagrams|charting|freestyle-writin|blank-canvas
+42,Windows,1.1,https://www.microsoft.com/en-in/software-download,operating-systems|cloud|security
+43,Windows 365,1.1,https://support.microsoft.com/en-us/office/download-and-install-or-reinstall-microsoft-365-or-office-2021-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658,cloud|virtual-machine|productivity|collaboration
+44,Word,1.1,https://www.microsoft.com/en-ww/microsoft-365/word,documentation|letters|report|format
+45,Yammer,1.1,https://www.microsoft.com/en-ww/microsoft-365/yammer/yammer-overview,video-calling|online-meetings|large-group-discussion
